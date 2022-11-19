@@ -13,4 +13,14 @@
   <h3>TEAM MEMBER :</h3>G.M.SHAREETH KUMAR
   <h3>TEAM MEMBER :</h3>R.SIVA SHUNMUGAN
 </p>  
+# Project Objectives<img src="https://media.giphy.com/media/U1anBXfZ4wmKoGsIMG/giphy.gif" width="40px">
+* To understand the problem to classify if it is a regression or a classification kind of problem.
+
+* To know how to pre-process/clean the data using different data pre-processing techniques.
+
+* Applying different algorithms according to the dataset 
+
+* To know how to evaluate the model.
+
+* To build web applications using the Flask framework.
          
